@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/teefyl/node_LT/issues"
   },
-  "homepage": "https://github.com/teefyl/node_LT#readme"
+  "homepage": "https://github.com/teefyl/node_LT#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
